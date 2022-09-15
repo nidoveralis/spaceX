@@ -1,10 +1,17 @@
 .header__link {
   color: #fff;
+  opacity: .8;
   text-decoration: none;
   font-size: 16px;
-};
+  transition: opacity .5s;
+  -webkit-transition: opacity .5s;
+  -moz-transition: opacity .5s;
+  -ms-transition: opacity .5s;
+  -o-transition: opacity .5s;
+  padding-bottom: 5px;
+}
 
 .header__link:hover {
-  color: black;
-  opacity: .1;
-};
+  opacity: .5;
+  border-bottom: 1px solid rgba(255, 255, 255, .5);
+}

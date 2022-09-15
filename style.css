@@ -7,4 +7,6 @@
 @import url("./blocks/header/__content/header__content.css");
 @import url("./blocks/header/__menu/header__menu.css");
 @import url("./blocks/header/__link/header__link.css");
+@import url("./blocks/main/main.css");
+@import url("./blocks/main/__content/main__content.css");
 /*background-image: linear-gradient(0deg, #d05217 0%, #ee8521 100%);*/
