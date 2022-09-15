@@ -1,0 +1,11 @@
+.header__background {
+  background-color: #150a01;
+  border: 1px solid #989393;
+  opacity: .1;
+  height: 100px;
+  z-index: 1;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+};

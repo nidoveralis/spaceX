@@ -1,0 +1,27 @@
+.page {
+  width: 100%;
+  height: 100%;
+  background-image: url('../../images/main_background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'MuseoSans',Arial, sans-serif;
+  color: #fff;
+};
+
+/*@media screen and (min-width:1280px) and (max-width: 769px){
+  .page {
+    padding-left: 375px;
+  };
+};
+
+@media screen and (max-width: 768px) {
+  .page {
+    padding-left: 105px;
+  };
+  max-width: 1920px;
+};*/
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
